@@ -1,0 +1,26 @@
+[Script Info]
+Title: 5-Block Left Aligned
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Text,MS Gothic,38,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,2,0,7,20,20,20,1
+Style: Timer,MS Gothic,42,&H00FFFF00,&H000000FF,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,2,0,7,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.03,0:00:11.35,Text,,0,0,0,,{\pos(120,500)}●Ａ　SIDE-ASpecial Act.A こちらとしても彼ら彼女らの行く末に幸多からんこ\Nとを願わざるを得ない。
+Dialogue: 5,0:00:01.03,0:00:02.03,Timer,,0,0,0,,{\pos(1750,490)}10
+Dialogue: 5,0:00:02.03,0:00:03.03,Timer,,0,0,0,,{\pos(1750,490)}9
+Dialogue: 5,0:00:03.03,0:00:04.03,Timer,,0,0,0,,{\pos(1750,490)}8
+Dialogue: 5,0:00:04.03,0:00:05.03,Timer,,0,0,0,,{\pos(1750,490)}7
+Dialogue: 5,0:00:05.03,0:00:06.03,Timer,,0,0,0,,{\pos(1750,490)}6
+Dialogue: 5,0:00:06.03,0:00:07.03,Timer,,0,0,0,,{\pos(1750,490)}5
+Dialogue: 5,0:00:07.03,0:00:08.03,Timer,,0,0,0,,{\pos(1750,490)}4
+Dialogue: 5,0:00:08.03,0:00:09.03,Timer,,0,0,0,,{\pos(1750,490)}3
+Dialogue: 5,0:00:09.03,0:00:10.03,Timer,,0,0,0,,{\pos(1750,490)}2
+Dialogue: 5,0:00:10.03,0:00:11.03,Timer,,0,0,0,,{\pos(1750,490)}1

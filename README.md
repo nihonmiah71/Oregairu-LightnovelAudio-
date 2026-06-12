@@ -8,7 +8,7 @@
 
 ## 2. File Placement
 
-Place the control files directly on your desktop and ensure your audio files follow this structure (you can find the audiofiles in https://drive.google.com/drive/u/0/folders/16aIw10AFJIweUYtPpe0Vi6clXcEssnYR but you have to combine each chapter manualy into one audio file (you can use a script, make sure the audio file and the .ass file have the same name)):
+Place the control files directly on your desktop and ensure your audio files follow this structure (you can find the audiofiles in https://drive.proton.me/urls/XJ3GQTSXAR#hIvr1Ae3YViS also with the ass files again (file 14 is seperated (because of storage issues) and can be found here )):
 
 ```text
 C:\Users\user\Desktop\

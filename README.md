@@ -8,7 +8,7 @@
 
 ## 2. File Placement
 
-Place the control files directly on your desktop and ensure your audio files follow this structure (you can find the audiofiles in https://drive.proton.me/urls/XJ3GQTSXAR#hIvr1Ae3YViS also with the ass files again (file 14 is seperated (because of storage issues) and can be found here https://drive.proton.me/urls/XB18EHDD0M#W0zoIanUngNZ)):
+Place the control files directly on your desktop and ensure your audio files follow this structure (you can find the audiofiles in https://drive.proton.me/urls/XJ3GQTSXAR#hIvr1Ae3YViS also with the ass files again (file 14 is seperated (because of storage issues) and can be found here https://drive.proton.me/urls/XB18EHDD0M#W0zoIanUngNZ place the folder to the other folders with the other volumes)):
 
 ```text
 C:\Users\user\Desktop\

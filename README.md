@@ -7,7 +7,7 @@
 
 ## 1. Installation Requirements
 
-* **MPV Player:** Download the version `mpv-x86_64-20260516-git-779378c248.7z` from [mpv-winbuild releases](https://github.com/zhongfly/mpv-winbuild/releases?page=5). (you have to look for the release on May 16 2026 and then locate the 7z)
+* **MPV Player:** Download the version `mpv-x86_64-20260516-git-779378c248.7z` from [mpv-winbuild releases](https://github.com/nihonmiah71/mpv-winbuild/releases/tag/v20260516-779378c). 
 * **Setup:** Extract the archive to: `C:\Users\user\Downloads\mpv-x86_64-20260516-git-779378c248`
 
 ## 2. File Placement
